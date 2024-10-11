@@ -1,5 +1,5 @@
 .container {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     color: white;
     display: flex;
     flex-direction: column;
@@ -8,6 +8,19 @@
     height: 100vh;
     margin: 0px;
 }
+
+.container-alt {
+    background-color: rgb(16, 30, 94);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+}
+
+
 
 .title {
     margin: 5%;
